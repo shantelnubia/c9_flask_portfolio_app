@@ -67,9 +67,11 @@ hr.star-primary:after {
   margin: 0 auto;
 }
 header {
-  text-align: center;
-  background: #18BC9C;
-  color: white;
+text-align: center;
+color: #fff;
+background: #18bc9c;
+background-size: cover;
+background-image: url('http://markinternational.info/matrix-gif-wallpapers/219663420.html
 }
 header .container {
   padding-top: 100px;
